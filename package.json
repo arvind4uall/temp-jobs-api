@@ -20,6 +20,8 @@
     "http-status-codes": "^2.2.0",
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^7.3.1",
-    "xss": "^1.0.14"
+    "swagger-ui-express": "^4.6.3",
+    "xss": "^1.0.14",
+    "yamljs": "^0.3.0"
   }
 }
